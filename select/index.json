@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "橙",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T14:48:20.258624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "橙",
+      "artist": "梶原岳人",
+      "has_synced": true,
+      "path": "select/01_橙_梶原岳人.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "橙",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_橙_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daidai [橙]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Daidai_[橙]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "橙",
+      "artist": "Chatmonchy",
+      "has_synced": true,
+      "path": "select/04_橙_Chatmonchy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "橙(チャットモンチー)",
+      "artist": "Mutsuhiro Nishiwaki",
+      "has_synced": false,
+      "path": "select/05_橙(チャットモンチー)_Mutsuhiro_Nishiwaki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daidai (橙 Bitter Orange)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/06_Daidai_(橙_Bitter_Orange)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "橙",
+      "artist": "Chatmonchy",
+      "has_synced": true,
+      "path": "select/07_橙_Chatmonchy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "橙",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_橙_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "橙 - Daidai",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/09_橙_-_Daidai_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "橙",
+      "artist": "Chatmonchy",
+      "has_synced": true,
+      "path": "select/10_橙_Chatmonchy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "橙",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/11_橙_KANA-BOON.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "橙",
+      "artist": "CHATMONCHY",
+      "has_synced": true,
+      "path": "select/12_橙_CHATMONCHY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "橙",
+      "artist": "Chatmonchy",
+      "has_synced": true,
+      "path": "select/13_橙_Chatmonchy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "橙",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_橙_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
